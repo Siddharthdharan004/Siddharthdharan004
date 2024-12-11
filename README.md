@@ -2,7 +2,7 @@
 - 👀 I’m interested in artificial intelligence
 - 🌱 I’m currently learning computer science engineering with specialization in AI
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me gmail:siddharthsprofessional@gmail.com
+- 📫 How to reach me gmail: siddharthsprofessional@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
